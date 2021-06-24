@@ -1,6 +1,6 @@
 # Predicting Titanic Passenger Survival
 
-For a better view of the jupyter notebook visit: https://nbviewer.jupyter.org/github/mphill82/Titanic-Kaggle/blob/master/predicting-titanic-passenger-survival.ipynb
+For a better view of the jupyter notebook visit: https://nbviewer.jupyter.org/github/mphill82/Titanic-Kaggle/blob/9887ccf972061d765f7d1b12ab805b5bd81a904c/predicting-titanic-passenger-survival.ipynb
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg" alt="Titanic" width=30%> 
 
